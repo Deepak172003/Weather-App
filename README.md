@@ -19,5 +19,7 @@ A simple web-based weather application where users can enter a location and get 
 4. Click the Get Weather button.
 5. The weather information will be displayed below.
 
+   [image](https://github.com/Deepak172003/Weather-App/blob/e4e9c1f2479a3fb5f39544eb5f73d4da9eafc2f2/Screenshot%20(85).png)
+
 
 
